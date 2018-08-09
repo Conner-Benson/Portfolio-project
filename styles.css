@@ -120,6 +120,11 @@ ul.skills {
   background: #0399ff;
 }
 
+.bike-img {
+  width: 200px;
+  height: 100px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
